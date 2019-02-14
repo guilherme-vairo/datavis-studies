@@ -290,7 +290,7 @@
                                 },
                                 {
                                     "name": "Indígena",
-                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                    "children": [ {"name": "Deficientes"},{"name": "Não deficiente"} ]
                                 }
                             ]
                         }
