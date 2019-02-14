@@ -1,0 +1,58 @@
+{
+    "name": "Alunos",
+    "children": [
+        {
+            "name": "Feminino",
+            "children": [
+                {
+                    "name": "Cisgênero",
+                    "children": [
+                        {"name": "AgglomerativeCluster", "value": 3938},
+                        {"name": "MergeEdge", "value": 743}
+                    ]
+                },
+                {
+                    "name": "Transgênero",
+                    "children": [
+                        {"name": "Hétero", "value": 3938},
+                        {"name": "Não-hétero", "value": 743}
+                    ]
+                }
+            ],
+            "name": "Masculino",
+            "children": [
+                {
+                    "name": "Cisgênero",
+                    "children": [
+                        {"name": "AgglomerativeCluster", "value": 3938},
+                        {"name": "MergeEdge", "value": 743}
+                    ]
+                },
+                {
+                    "name": "Transgênero",
+                    "children": [
+                        {"name": "Hétero", "value": 3938},
+                        {"name": "Não-hétero", "value": 743}
+                    ]
+                }
+            ],
+            "name": "Não Binário",
+            "children": [
+                {
+                    "name": "Cisgênero",
+                    "children": [
+                        {"name": "AgglomerativeCluster", "value": 3938},
+                        {"name": "MergeEdge", "value": 743}
+                    ]
+                },
+                {
+                    "name": "Transgênero",
+                    "children": [
+                        {"name": "Hétero", "value": 3938},
+                        {"name": "Não-hétero", "value": 743}
+                    ]
+                }
+            ]
+        }
+    ]
+}
