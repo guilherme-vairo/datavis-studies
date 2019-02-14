@@ -7,49 +7,293 @@
                 {
                     "name": "Cisgênero",
                     "children": [
-                        {"name": "AgglomerativeCluster", "value": 3938},
-                        {"name": "MergeEdge", "value": 743}
+                        {
+                            "name": "Hétero",
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Não-hétero", 
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "name": "Transgênero",
                     "children": [
-                        {"name": "Hétero", "value": 3938},
-                        {"name": "Não-hétero", "value": 743}
+                        {
+                            "name": "Hétero",
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Não-hétero", 
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        }
                     ]
                 }
-            ],
+            ]
+        },
+        {
             "name": "Masculino",
             "children": [
                 {
                     "name": "Cisgênero",
                     "children": [
-                        {"name": "AgglomerativeCluster", "value": 3938},
-                        {"name": "MergeEdge", "value": 743}
+                        {
+                            "name": "Hétero",
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Não-hétero", 
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "name": "Transgênero",
                     "children": [
-                        {"name": "Hétero", "value": 3938},
-                        {"name": "Não-hétero", "value": 743}
+                        {
+                            "name": "Hétero",
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Não-hétero", 
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        }
                     ]
                 }
-            ],
+            ]
+        },
+        {
             "name": "Não Binário",
             "children": [
                 {
                     "name": "Cisgênero",
                     "children": [
-                        {"name": "AgglomerativeCluster", "value": 3938},
-                        {"name": "MergeEdge", "value": 743}
+                        {
+                            "name": "Hétero",
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Não-hétero", 
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
                     "name": "Transgênero",
                     "children": [
-                        {"name": "Hétero", "value": 3938},
-                        {"name": "Não-hétero", "value": 743}
+                        {
+                            "name": "Hétero",
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Não-hétero", 
+                            "children": [
+                                {
+                                    "name": "Branca",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Parda",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Negra",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                },
+                                {
+                                    "name": "Indígena",
+                                    "children": [ {"name": "Deficiente"},{"name": "Não deficiente"} ]
+                                }
+                            ]
+                        }
                     ]
                 }
             ]
